@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      table {
+        border: 1px solid;
+      }
+    </style>
+  </head>
+  <body>
+    <table id="myTable">
+      <tr>
+        <td>1231231</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>1231231</td>
+      </tr>
+    </table>
+    <button onclick="addRows()">Add rows</button>
+    <script>
+      function addRows() {
+        var numRows = parseInt(
+          prompt("Enter the number of rows (only number)")
+        );
+        var table = document.getElementById("myTable");
+        for (var i = 1; i <= numRows; i++) {
+          var row = table.insertRow();
+          var cell1 = row.insertCell(0);
+          cell1.innerHTML = "new here " + i;
+        }
+      }
+    </script>
+  </body>
+</html>

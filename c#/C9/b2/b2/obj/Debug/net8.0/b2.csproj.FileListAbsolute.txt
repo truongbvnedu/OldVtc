@@ -1,0 +1,14 @@
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\bin\Debug\net8.0\b2.exe
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\bin\Debug\net8.0\b2.deps.json
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\bin\Debug\net8.0\b2.runtimeconfig.json
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\bin\Debug\net8.0\b2.dll
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\bin\Debug\net8.0\b2.pdb
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\obj\Debug\net8.0\b2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\obj\Debug\net8.0\b2.AssemblyInfoInputs.cache
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\obj\Debug\net8.0\b2.AssemblyInfo.cs
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\obj\Debug\net8.0\b2.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\obj\Debug\net8.0\b2.dll
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\obj\Debug\net8.0\refint\b2.dll
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\obj\Debug\net8.0\b2.pdb
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\obj\Debug\net8.0\b2.genruntimeconfig.cache
+C:\Users\THIS PC\Downloads\c#\C9\b2\b2\obj\Debug\net8.0\ref\b2.dll

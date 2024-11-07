@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="wrapper">
+
+        <header>
+			<img src="https://cdn.icon-icons.com/icons2/3660/PNG/512/valorant_games_riot_play_logo_icon_228460.png" />   
+			<ul>
+				<li id="nav-home">Home </li>   
+				<li id="nav-agents">Agents</li>   
+				<li id="nav-gameplay">Game play</li>   
+				<li id="nav-download">Free download</li>   
+			</ul>    
+		</header>  
+
+		 <div id="page-wrapper">
+
+			 <div id="home">
+				<div id="home-banner" class="banner">
+					<h1>Valorant</h1> 
+					<h2>A 5-on-5 tactical shooter with characters as a background</h2> 
+				</div>
+				<div class="row">
+					<section class="img-col">
+						<img src="https://th.bing.com/th/id/R.943b667fc131b144623b71ba95b455ae?rik=lJp7WGMvOh0s9A&pid=ImgRaw&r=0" /> 
+					</section>
+					<section class="text-col">
+						<h2>HOME</h2> 
+						<p>Bring personal style and experience to the global competitive arena. Using gunfighting skills along with sharp tactical thinking with two factions attacking and defending, success and defeat were determined in just 13 rounds. With only 1 life per round, agility and decisiveness will be factors to help you survive. Experience VALORANT in game modes: Ranked Match, Normal Duel, Life and Death and Spike Speed.</p> 
+					</section>
+				</div>   
+			</div>
+			<div id="agents">
+				  <div id="Agents-banner" class="banner">
+					<h2>Agents</h2>  
+					<h3>Feel free to choose the agent you want</h3>  
+				</div> 
+			
+				<div class="text-wrapper">
+					<h2>Agents</h2>   
+					<p>The numbers in the "No." column are in the chronological order of when the agents were recruited by the VALORANT Protocol. You can find their numbers in game by going to their contracts and looking at their banners. There is an eighth agent in the VALORANT Protocol but their identity is unknown, and they are not yet a playable agent in VALORANT.</p>   
+					<p>Five agents are immediately available for players to use; Brimstone, Jett, Phoenix, Sage, and Sova. All other agents must be unlocked by progressing through each of their agent contracts and completing Tier 5.</p>   
+				</div>
+			</div>
+			<div id="gameplay">
+				<div id="Gameplay-banner" class="banner">
+					<h2>Game play</h2> 
+					 <h3>Just move and shot</h3>
+				</div>
+				<div class="row">
+					<section class="text-col">
+						<h2></h2> 
+						<p></p> 
+					</section>
+					<section class="img-col">
+                        </section>
+						<iframe id="if" width="560" height="315" src="https://www.youtube-nocookie.com/embed/DQqXOLPyWDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					
+				</div>
+				<div class="row">
+					<section class="text-col">  
+				</div>       
+                <div id="main2"><p id="if2">Just play like any other shooter game simply because Valorant also relies on it. Especially in Valorant, you have to have a plan with your teammates and each agent is trained according to a different skill.</p> </div>
+			</div>
+			 <div id="download">
+				<div id="download-banner" class="banner">
+					<h2>Contact Us</h2>
+					<h3>Get in touch with us</h3> 
+				</div>
+
+				<div class="text-wrapper">
+					 <h2>Freedownload</h2>  
+					 <p>Please click the button below to download the game.</p>  
+					<a href="https://playvalorant.com/vi-vn/"><button id="bt"> <img id="bt2"   src="https://th.bing.com/th/id/OIP.ChIkdjcbSmos28O5qI9ffAHaCc?pid=ImgDet&w=920&h=304&rs=1" /></button></a>  
+					<h4 id="phone-info"> <a href="https://www.facebook.com/VALORANTvn/">FACEBOOK</a> </h4>  
+					<h4 id="address-info">Ho Chi Minh City, Vietnam</h4>  
+				</div>  
+			</div>
+		</div>
+		<footer>
+			<p>&copy; 2024 by bvner</p>   
+		</footer>  
+
+    </div>
+
+    <script>
+        document.querySelectorAll("header ul li").forEach(function(page) {
+    page.onclick = () => {
+        let pageName = page.id.split("-")[1];
+        showPage(pageName);
+    }
+  });
+
+function showPage(pageName) {
+    clearPages();
+    const current_page = document.getElementById(pageName);
+    current_page.style.display = "block";
+}
+
+function clearPages() {
+    const pages = document.querySelectorAll("#page-wrapper > div");
+    
+    for(var i = 0; i < pages.length; i++){
+        pages[i].style.display = "none";
+    }
+}
+
+	showPage("home");
+
+</script>
+</body>
+
+</html>    

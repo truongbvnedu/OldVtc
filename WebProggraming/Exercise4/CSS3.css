@@ -1,0 +1,35 @@
+.div1 {
+  border: #00f solid 2px;
+  width: 700px;
+  margin: 20px auto;
+  background-color: #ffc;
+  border-radius: 10px;
+}
+.h21 {
+  color: #900;
+}
+.p1 {
+  font-size: 20px;
+  padding: 20px;
+  text-align: justify;
+  text-indent: 50px;
+}
+.div2 {
+  border: #00f solid 2px;
+  width: 450;
+  height: 330px;
+  margin: 20px auto;
+  background-image: url(https://cafefcdn.com/2019/1/9/images21148991-15469799856611852593263.jpg);
+  border-radius: 10px;
+}
+.h22 {
+  color: #cf0;
+}
+.p2 {
+  font-size: 20px;
+  color: #ffc;
+  line-height: 30px;
+  padding: 20px;
+  text-align: justify;
+  text-indent: 50px;
+}

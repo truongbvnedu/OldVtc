@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="new.css" />
+  </head>
+  <body>
+    <nav class="navbar navbar-default" id="color">
+      <div class="container-fluid">
+        <div class="navbar-header"></div>
+        <ul class="nav navbar-nav">
+          <div class="btn-group">
+            <button type="button" class="btn btn-primary">
+              Fullname <span class="badge">3</span>
+            </button>
+            <button type="button" class="btn btn-primary">
+              Username <span class="badge">3</span>
+            </button>
+            <button type="button" class="btn btn-primary">
+              Email <span class="badge">3</span>
+            </button>
+            <button
+              class="btn btn-primary dropdown-toggle"
+              type="button"
+              data-toggle="dropdown"
+            >
+              Dropdown<span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+              <li><a href="#">Fullname</a></li>
+              <li><a href="#">Username</a></li>
+              <li><a href="#">Email</a></li>
+            </ul>
+          </div>
+          <h2>Table of user</h2>
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Fullname</th>
+                <th>Username</th>
+                <th>Email</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>John</td>
+                <td>Doe</td>
+                <td>john@example.com</td>
+              </tr>
+              <tr>
+                <td>Mary</td>
+                <td>Moe</td>
+                <td>mary@example.com</td>
+              </tr>
+              <tr>
+                <td>July</td>
+                <td>Dooley</td>
+                <td>july@example.com</td>
+              </tr>
+            </tbody>
+          </table>
+        </ul>
+      </div>
+    </nav>
+  </body>
+</html>

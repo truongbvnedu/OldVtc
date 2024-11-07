@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "thuong 2 so/1.0.0": {
+        "runtime": {
+          "thuong 2 so.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "thuong 2 so/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\bin\Debug\net8.0\betatry.exe
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\bin\Debug\net8.0\betatry.deps.json
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\bin\Debug\net8.0\betatry.runtimeconfig.json
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\bin\Debug\net8.0\betatry.dll
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\bin\Debug\net8.0\betatry.pdb
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\obj\Debug\net8.0\betatry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\obj\Debug\net8.0\betatry.AssemblyInfoInputs.cache
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\obj\Debug\net8.0\betatry.AssemblyInfo.cs
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\obj\Debug\net8.0\betatry.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\obj\Debug\net8.0\betatry.dll
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\obj\Debug\net8.0\refint\betatry.dll
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\obj\Debug\net8.0\betatry.pdb
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\obj\Debug\net8.0\betatry.genruntimeconfig.cache
+C:\Users\THIS PC\Downloads\c#\c11\betatry\betatry\obj\Debug\net8.0\ref\betatry.dll

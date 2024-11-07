@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>JS DOM Paragraph Style</title>
+  </head>
+  <body>
+    <p id="welcometext">Welcome to VTC Academy</p>
+    <div><button onclick="changeStyle()">Change Style</button></div>
+    <script>
+      function changeStyle() {
+        document.getElementById("welcometext").style.color = "green";
+        document.getElementById("welcometext").style.fontSize = "20px";
+        //document.getElementById("welcometext").style.font = "any";
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.AssemblyInfoInputs.cache
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.AssemblyInfo.cs
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\bin\Debug\net8.0\bai4.exe
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\bin\Debug\net8.0\bai4.deps.json
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\bin\Debug\net8.0\bai4.runtimeconfig.json
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\bin\Debug\net8.0\bai4.dll
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\bin\Debug\net8.0\bai4.pdb
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.AssemblyInfoInputs.cache
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.AssemblyInfo.cs
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.dll
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\refint\bai4.dll
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.pdb
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\bai4.genruntimeconfig.cache
+C:\Users\THIS PC\Downloads\c#\bai4\bai4\obj\Debug\net8.0\ref\bai4.dll

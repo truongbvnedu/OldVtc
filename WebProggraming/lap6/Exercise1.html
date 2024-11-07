@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form name="de">
+      <p>nhập °C</p>
+      <input type="number" id="Doc" />
+      <button id="Dof" onclick="myFunction()">đổi °C sang °F</button>
+      <p id="result"></p>
+    </form>
+    <script>
+      function myFunction() {
+        var doC = document.getElementById("Doc").value;
+        var doF = doC * (9 / 5) + 32;
+        document.write(doF + "°F");
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      #orange {
+        padding: 1opx;
+        border: 3px solid orange;
+        width: 80px;
+        height: 60px;
+      }
+      #green {
+        border: 3px solid green;
+        width: 190px;
+        background-color: chartreuse;
+      }
+      #blue {
+        border: 3px solid lightskyblue;
+        width: 260px;
+        background-color: lightblue;
+      }
+    </style>
+  </head>
+  <body>
+    <ol id="orange">
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ol>
+    <ol type="a" id="green">
+      <li>Lowercase letter</li>
+      <li type="A">Uppercase letter</li>
+      <li type="i">Lowercase Roman numerals</li>
+      <li type="I">Uppercase Roman numerals</li>
+      <li type="1">Arabic numerals</li>
+    </ol>
+    <ol start="10" type="a" id="blue">
+      <li>This should be j</li>
+      <li>
+        This should be c
+        <ol>
+          <li>
+            List can nest
+            <ol>
+              <li>Nesting depth is unlimited</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </body>
+</html>

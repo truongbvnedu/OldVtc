@@ -1,0 +1,14 @@
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\bin\Debug\net8.0\C2 beta2.exe
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\bin\Debug\net8.0\C2 beta2.deps.json
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\bin\Debug\net8.0\C2 beta2.runtimeconfig.json
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\bin\Debug\net8.0\C2 beta2.dll
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\bin\Debug\net8.0\C2 beta2.pdb
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\obj\Debug\net8.0\C2 beta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\obj\Debug\net8.0\C2 beta2.AssemblyInfoInputs.cache
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\obj\Debug\net8.0\C2 beta2.AssemblyInfo.cs
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\obj\Debug\net8.0\C2 beta2.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\obj\Debug\net8.0\C2 beta2.dll
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\obj\Debug\net8.0\refint\C2 beta2.dll
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\obj\Debug\net8.0\C2 beta2.pdb
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\obj\Debug\net8.0\C2 beta2.genruntimeconfig.cache
+C:\Users\THIS PC\Downloads\c#\C2 beta2\C2 beta2\obj\Debug\net8.0\ref\C2 beta2.dll

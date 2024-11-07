@@ -1,0 +1,14 @@
+C:\Users\THIS PC\Downloads\c#\beta\beta\bin\Debug\net8.0\beta.exe
+C:\Users\THIS PC\Downloads\c#\beta\beta\bin\Debug\net8.0\beta.deps.json
+C:\Users\THIS PC\Downloads\c#\beta\beta\bin\Debug\net8.0\beta.runtimeconfig.json
+C:\Users\THIS PC\Downloads\c#\beta\beta\bin\Debug\net8.0\beta.dll
+C:\Users\THIS PC\Downloads\c#\beta\beta\bin\Debug\net8.0\beta.pdb
+C:\Users\THIS PC\Downloads\c#\beta\beta\obj\Debug\net8.0\beta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS PC\Downloads\c#\beta\beta\obj\Debug\net8.0\beta.AssemblyInfoInputs.cache
+C:\Users\THIS PC\Downloads\c#\beta\beta\obj\Debug\net8.0\beta.AssemblyInfo.cs
+C:\Users\THIS PC\Downloads\c#\beta\beta\obj\Debug\net8.0\beta.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\c#\beta\beta\obj\Debug\net8.0\beta.dll
+C:\Users\THIS PC\Downloads\c#\beta\beta\obj\Debug\net8.0\refint\beta.dll
+C:\Users\THIS PC\Downloads\c#\beta\beta\obj\Debug\net8.0\beta.pdb
+C:\Users\THIS PC\Downloads\c#\beta\beta\obj\Debug\net8.0\beta.genruntimeconfig.cache
+C:\Users\THIS PC\Downloads\c#\beta\beta\obj\Debug\net8.0\ref\beta.dll

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exercise 3</title>
+    <style>
+      @keyframes blinking {
+        0% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+
+      .blinking {
+        animation: blinking 1s infinite;
+      }
+      .lineThrough {
+        text-decoration: line-through;
+      }
+      .underline {
+        text-decoration: underline;
+      }
+      .capitalized {
+        text-transform: capitalize;
+      }
+      .uppercase {
+        text-transform: uppercase;
+      }
+      .lowercase {
+        text-transform: lowercase;
+      }
+      .shadow {
+        text-shadow: 2px 2px 4px blue;
+      }
+    </style>
+  </head>
+  <body>
+    <p class="underline">This will be underline</p>
+    <p class="lineThrough">This will be strike through</p>
+    <p class="blinking">This test will have blinking effect</p>
+    <p class="capitalized">This text will be capitalized</p>
+    <p class="uppercase">this will be in uppercase</p>
+    <p class="lowercase">This will be in lowercase</p>
+    <p class="shadow">
+      if your browser supports the CSS text-shadow property, this text will have
+      blue shadow
+    </p>
+  </body>
+</html>
